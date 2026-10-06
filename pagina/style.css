@@ -199,7 +199,6 @@ header img{
     background-position: center;
 
 }
-
 .carta:nth-child(3){
      background-image: linear-gradient(
     rgba(0,0,0,.5),
@@ -211,7 +210,6 @@ header img{
     background-position: center;
 
 }
-
 .marcas{
     display:grid;
     grid-template-columns:1fr;
